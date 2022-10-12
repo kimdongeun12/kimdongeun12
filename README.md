@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 ### <div align="center">맡은바에 최선을 다하자!❤️‍🔥</div>
 <br/><br/>
 
----
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimdongeun12&show_icons=true&theme=radical&count_private=true"/ align="right">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=kimdongeun12&show_icons=true&theme=radical&count_private=true" align="right" />
   
   ### <p >🐥 DongEun 🐥</p>
+  ---
   <p>
     <a href="https://velog.io/@kimdongeun12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdongeun12&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
