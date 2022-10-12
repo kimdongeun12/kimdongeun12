@@ -27,7 +27,8 @@ Here are some ideas to get you started:
   
   ### <p align="center">🐥 DongEun 🐥</p>
   <p align="center">
-    <a href="https://velog.io/@kimdongeun12"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+    <a href="https://velog.io/@kimdongeun12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdongeun12&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
   </p>
   
   <p>⚒TECH⚒</p>
