@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🌟DongEun's%20GitHub🌟&fontSize=72" style="width:100%"/>
 
-### <div align="center">맡은바에 최선을 다하자!❤️‍🔥</div>
+### <div align="center">🔥맡은바에 최선을 다하자🔥</div>
 <br/><br/>
 
 
