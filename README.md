@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 --- 
 </div>
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudwprla11"/> -->
+<div align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudwprla11"/>
+</div>
 <br/><br/>
 
