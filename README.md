@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F9247B&height=300&fontColor=FFFFFF&section=header&text=🌟DongEun's%20GitHub🌟&fontSize=72" style="width:100%; color:ffffff"/>
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=[https://www.notion.so/rlo-orn/65c8a90c5a6b40b79db31d911e3d1059]
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://rlo-orn.notion.site/65c8a90c5a6b40b79db31d911e3d1059?pvs=4
 
 <br/><br/>
 
